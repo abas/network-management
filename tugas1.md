@@ -13,7 +13,7 @@
     Keamanan infrastruktur jaringan fisik.
 ```
 
-3. apa itu FCAPS itu
+3. apa itu FCAPS
 ```
     FCAPS merupakan model  dan framework dari ISO Telecommunications untuk Management Network yang mana mengkategorikan tugas tugas dari network management .
 ```
@@ -41,9 +41,6 @@
 
 ```
 
-source
-
-===========
 Source
 1. [solarwinds](http://www.solarwinds.com/free-tools/free-network-tools?CMP=BIZ-TAD-TCHOPDIA-NtwkFtLP-NETMAN-CLP-Q32015)
 
